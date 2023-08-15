@@ -108,10 +108,27 @@ h3{
 	font-weight: 800;
 	text-align: center;
 }
+#copyright {
+	background-color: #efefef;
+	padding: 25px; 
+}
 
-
-
-
+#footer-sponsors h2{
+	font-weight: 600;
+	font-size: 20px; 
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+#footer-sponsors h4{
+	font-size: 20px; 
+	color: #6d6d6d;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	margin-bottom: 50px;
+}
+#footer-sponsors img{
+	width: 500px; 
+}
 
 
 
